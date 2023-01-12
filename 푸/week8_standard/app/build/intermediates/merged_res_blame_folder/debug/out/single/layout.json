@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.example.week8_standard.app-mergeDebugResources-4:/layout/item_data.xml",
+        "source": "com.example.week8_standard.app-main-7:/layout/item_data.xml"
+    },
+    {
+        "merged": "com.example.week8_standard.app-mergeDebugResources-4:/layout/activity_main.xml",
+        "source": "com.example.week8_standard.app-main-7:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.week8_standard.app-mergeDebugResources-4:/layout/activity_add.xml",
+        "source": "com.example.week8_standard.app-main-7:/layout/activity_add.xml"
+    }
+]

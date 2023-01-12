@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.example.kakaologin.app-mergeDebugResources-4:/layout/activity_login.xml",
+        "source": "com.example.kakaologin.app-main-7:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.kakaologin.app-mergeDebugResources-4:/layout/activity_main.xml",
+        "source": "com.example.kakaologin.app-main-7:/layout/activity_main.xml"
+    }
+]
