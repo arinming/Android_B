@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "com.example.kakaologin.app-merged_res-5:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.kakaologin.app-debug-6:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.kakaologin.app-merged_res-5:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.kakaologin.app-debug-6:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.kakaologin.app-merged_res-5:/xml_backup_rules.xml.flat",
+        "source": "com.example.kakaologin.app-main-7:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.kakaologin.app-merged_res-5:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.kakaologin.app-main-7:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.kakaologin.app-merged_res-5:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.example.kakaologin.app-debug-6:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.kakaologin.app-merged_res-5:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.kakaologin.app-debug-6:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.kakaologin.app-merged_res-5:/layout_activity_login.xml.flat",
+        "source": "com.example.kakaologin.app-main-7:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.kakaologin.app-merged_res-5:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.kakaologin.app-debug-6:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.kakaologin.app-merged_res-5:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.kakaologin.app-debug-6:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.kakaologin.app-merged_res-5:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.kakaologin.app-debug-6:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.kakaologin.app-merged_res-5:/drawable_kakao_login_large_narrow.png.flat",
+        "source": "com.example.kakaologin.app-main-7:/drawable/kakao_login_large_narrow.png"
+    },
+    {
+        "merged": "com.example.kakaologin.app-merged_res-5:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.kakaologin.app-pngs-0:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.kakaologin.app-merged_res-5:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.kakaologin.app-debug-6:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.kakaologin.app-merged_res-5:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.example.kakaologin.app-debug-6:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.kakaologin.app-merged_res-5:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.kakaologin.app-debug-6:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.kakaologin.app-merged_res-5:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.kakaologin.app-debug-6:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.kakaologin.app-merged_res-5:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.kakaologin.app-debug-6:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.kakaologin.app-merged_res-5:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.kakaologin.app-debug-6:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.kakaologin.app-merged_res-5:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.kakaologin.app-debug-6:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.kakaologin.app-merged_res-5:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.kakaologin.app-debug-6:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.kakaologin.app-merged_res-5:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.kakaologin.app-debug-6:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.kakaologin.app-merged_res-5:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.kakaologin.app-debug-6:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.kakaologin.app-merged_res-5:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.kakaologin.app-debug-6:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.kakaologin.app-merged_res-5:/layout_activity_main.xml.flat",
+        "source": "com.example.kakaologin.app-main-7:/layout/activity_main.xml"
+    }
+]
